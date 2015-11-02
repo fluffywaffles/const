@@ -1,0 +1,25 @@
+{
+  "name": "kathunk",
+  "version": "1.0.0",
+  "description": "Simple wrapper for making Thunks in JS",
+  "main": "thunk.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skorlir/kathunk.git"
+  },
+  "keywords": [
+    "thunk",
+    "functional",
+    "function",
+    "wrapper"
+  ],
+  "author": "@skorlir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skorlir/kathunk/issues"
+  },
+  "homepage": "https://github.com/skorlir/kathunk#readme"
+}
