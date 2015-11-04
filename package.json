@@ -1,17 +1,17 @@
 {
-  "name": "kathunk",
+  "name": "const",
   "version": "1.0.0",
-  "description": "Simple wrapper for making Thunks in JS",
+  "description": "Simple wrapper for making Consts in JS",
   "main": "thunk.js",
   "scripts": {
     "test": "node test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skorlir/kathunk.git"
+    "url": "git+https://github.com/skorlir/const.git"
   },
   "keywords": [
-    "thunk",
+    "const",
     "functional",
     "function",
     "wrapper"
@@ -19,7 +19,7 @@
   "author": "@skorlir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skorlir/kathunk/issues"
+    "url": "https://github.com/skorlir/const/issues"
   },
-  "homepage": "https://github.com/skorlir/kathunk#readme"
+  "homepage": "https://github.com/skorlir/const#readme"
 }

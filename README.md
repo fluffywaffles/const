@@ -1,9 +1,9 @@
-## Seriously, it's just a way to make a thunk.
+## Seriously, it's just a way to make a const.
 
-Wanna wrap that in a function, hot-dog-style? Thunk it up.
+Wanna wrap that in a function, hot-dog-style? Const it up.
 
 ```js
-var gimmeAnA = Thunk (
+var gimmeAnA = Const (
   'A'
 )
 
